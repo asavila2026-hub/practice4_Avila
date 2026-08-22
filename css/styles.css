@@ -1,0 +1,59 @@
+*{
+ background-color: cream;
+}
+ body{
+ }   
+
+.regular img{
+   width: 300px; /* Ajusta el ancho de tu imagen */
+  height: 520px;
+  float: right;
+  align-items: normal;
+  padding: 1px 10px 10px 1px;
+  border-radius: 10px 5px 5px 20px;
+}
+section{
+    float: left;
+    font-size: 20px;
+}
+#oracion{
+    padding: 2px 10px 12px 5px;
+}
+#rosa{
+    letter-spacing: 5px;
+}
+main{
+    margin: 100px 70px 80px 70px;
+    background-color: white;
+    height: 520px;
+    width: 610px;
+    border-radius: 15px;
+}
+body{
+     background-color: rgb(91, 190, 91);
+     padding: 40px 230px
+}
+h2{
+    color: rgb(4, 95, 4);
+    font-size: 50px;
+}
+#red{
+    font-size: 20px;
+    float: left;
+}
+#header{
+    background-color: rgb(2, 48, 2);
+    color: white;
+    font-size: 25px;
+    border-radius: 20px;
+    height:80px;
+    width: 280px;
+    float: left;
+    align-items: center;
+    text-align: center;
+    padding: 5px 0px;
+}
+#header h1{
+    padding: 10px 14px;
+    margin-top: 20px;
+}
